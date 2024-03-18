@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itay0
 - 👀 I’m interested in developing Minecraft Plugins.
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me? @itayv on discord
 
 <!---
